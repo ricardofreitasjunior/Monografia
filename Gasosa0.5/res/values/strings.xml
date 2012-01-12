@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="buttonCalc">Calcular</string>
+    <string name="result">O preço do Álcool atingiu %.0f%%\ndo preço da Gasolina.</string>
+    <string name="desc_app">Qual ta valendo abastecer? </string>
+    <string name="app_name">Gasosa</string>
+    <string name="etanol.required">Eu preciso saber o preço do Etanol :)</string>
+    <string name="gasoline.required">Eu preciso saber o preço da Gasolina :)</string>
+    <string name="config.title">Informações de consumo</string>
+    <string name="config.alert">"Ao escolher esta opção, os cálculos serão realizados com um valor obtido da média de consumo dos veículos. Você pode voltar para esta tela mais tarde para configurar o consumo do seu veículo." </string>
+    <string name="config.gas_km">Quantos quilômetros seu carro faz com um litro de gasolina?</string>
+    <string name="config.ethanol_km">Quantos quilômetros seu carro faz com um litro de etanol?</string>
+    <string name="lista_postos">Selecione o posto</string>
+</resources>

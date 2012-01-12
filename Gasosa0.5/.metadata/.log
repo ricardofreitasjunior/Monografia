@@ -1,0 +1,25 @@
+!SESSION 2011-10-08 14:45:47.500 -----------------------------------------------
+eclipse.buildId=M20110210-1200
+java.version=1.6.0_22
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.ui 4 4 2011-10-08 14:46:42.006
+!MESSAGE Unable to create menu item "org.eclipse.sequoyah.android.cdt.internal.build.ui.addNativeSupport", command "org.eclipse.sequoyah.android.cdt.internal.build.ui.addNativeSupport" not defined
+
+!ENTRY org.eclipse.update.configurator 4 0 2011-10-08 14:46:50.948
+!MESSAGE Can't find bundle for base name feature, locale en_US
+
+!ENTRY org.eclipse.update.configurator 4 0 2011-10-08 14:46:52.192
+!MESSAGE Can't find bundle for base name feature, locale en_US
+
+!ENTRY org.eclipse.update.configurator 4 0 2011-10-08 14:46:52.369
+!MESSAGE Can't find bundle for base name feature, locale en_US
+
+!ENTRY org.eclipse.update.configurator 4 0 2011-10-08 14:46:52.663
+!MESSAGE Can't find bundle for base name feature, locale en_US
+
+!ENTRY com.android.ide.eclipse.adt 2 0 2011-10-08 14:46:57.060
+!MESSAGE An Android SDK is already being loaded. Please try again later.

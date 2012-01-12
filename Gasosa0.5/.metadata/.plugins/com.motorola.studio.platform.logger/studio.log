@@ -1,0 +1,33 @@
+2011-10-08 14:46:52,939 [Worker-4] DEBUG class com.motorola.studio.android.ophone.OPhonePlugin - Added SDK listener to perform configurations when an OPhone SDK is loaded.
+2011-10-08 14:46:53,092 [Worker-4] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2011-10-08 14:46:53,092 [Worker-4] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2011-10-08 14:46:53,093 [Worker-4] INFO  Studio for Android - [Status: id=com.motorola.studio.android.handset.status.handsetonline;name=Online]
+2011-10-08 14:46:53,093 [Worker-4] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.online;name=Online]
+2011-10-08 14:46:53,093 [Worker-4] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.notavailable;name=Not available]
+2011-10-08 14:46:53,093 [Worker-4] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.connected;name=Connected]
+2011-10-08 14:46:53,093 [Worker-4] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2011-10-08 14:46:53,093 [Worker-4] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2011-10-08 14:46:53,093 [Worker-4] INFO  Studio for Android - [Status: id=com.motorola.studio.android.emulator.status.offline;name=Offline]
+2011-10-08 14:46:53,093 [Worker-4] INFO  Studio for Android - [Status: id=com.motorola.studio.android.remote.status.disconnected;name=Disconnected]
+2011-10-08 14:46:53,182 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: GoogleAPI.7 Status: OFF
+2011-10-08 14:46:53,184 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: googleAPI.10 Status: OFF
+2011-10-08 14:46:53,185 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: GoogleAPI.7 Status: com.motorola.studio.android.emulator.status.notavailable
+2011-10-08 14:46:53,185 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: googleAPI.10 Status: com.motorola.studio.android.emulator.status.notavailable
+2011-10-08 14:46:53,249 [Worker-4] INFO  class com.motorola.studio.android.installer.startup.InstallationChecker - Is there any SDK set? false
+2011-10-08 14:46:53,839 [main] INFO  class com.motorola.studio.android.installer.ui.SdkDownloadPage - Using SDK at /home/ricardo/Dev/android-sdk-linux_x86
+2011-10-08 14:46:55,722 [Worker-4] DEBUG class com.motorola.studio.android.AndroidPlugin - Notify SDK loader listeners
+2011-10-08 14:46:55,751 [Worker-6] DEBUG class com.motorola.studio.android.AndroidPlugin - Notify SDK loader listeners
+2011-10-08 14:46:57,042 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: googleAPI.10 Status: com.motorola.studio.android.emulator.status.offline
+2011-10-08 14:46:57,048 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: GoogleAPI.7 Status: com.motorola.studio.android.emulator.status.offline
+2011-10-08 14:46:57,050 [Worker-6] DEBUG class com.motorola.studio.android.ophone.OPhonePlugin$1 - An SDK was just loaded. Check if it is an OPhone SDK
+2011-10-08 14:46:57,050 [Worker-4] DEBUG class com.motorola.studio.android.ophone.OPhonePlugin$1 - An SDK was just loaded. Check if it is an OPhone SDK
+2011-10-08 14:59:13,769 [Worker-3] INFO  class com.motorola.studio.android.installer.ui.SdkDownloadPage - Using SDK at /home/ricardo/Dev/android-sdk-linux_x86
+2011-10-08 14:59:13,949 [Worker-6] DEBUG class com.motorola.studio.android.AndroidPlugin - Notify SDK loader listeners
+2011-10-08 14:59:13,958 [Worker-6] DEBUG class com.motorola.studio.android.ophone.OPhonePlugin$1 - An SDK was just loaded. Check if it is an OPhone SDK
+2011-10-08 14:59:14,292 [Worker-3] INFO  class com.motorola.studio.android.installer.jobs.InstallComponentsJob - All ius were successfully installed. All configuration hooks executed. Closing components dialog.
+2011-10-08 14:59:52,731 [main] DEBUG class com.motorola.studio.android.ophone.OPhonePlugin - Removed SDK listener that performs OPhone configurations when an SDK is loaded.
+2011-10-08 14:59:52,775 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.wizard.DeviceWizardPlugin-SHUTDOWN
+2011-10-08 14:59:52,788 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2011-10-08 14:59:52,797 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2011-10-08 14:59:52,798 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2011-10-08 14:59:52,798 [main] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
